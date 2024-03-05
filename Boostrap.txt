@@ -1,0 +1,24 @@
+Bootstrap -->
+
+Bootstrap is the most popular CSS Framework for developing responsive and 
+mobile-first websites.
+
+Bootstrap 5 is the newest version of Bootstrap
+
+It includes pre made components like navbars, modals, tabs , tooltips ,
+buttons and many more
+
+Advantages of Bootstrap -->
+
+Saves Time
+Ensures cross browser compatibility
+Comes with completely responsive components
+
+
+Ways to add bootstrap -->
+1. download bootstrap and link it to the project
+2. Use cdn to link --> BootstrapCDN is a public content delivery network. 
+                       It enables users to load CSS, JavaScript and images 
+                       remotely from its servers.
+3. Use command like npm to install it locally
+
